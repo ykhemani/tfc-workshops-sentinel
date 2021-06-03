@@ -10,8 +10,8 @@ import "tfplan-functions" as plan
 
 ### List of mandatory labels ###
 mandatory_labels = [
-  "department",
-  "billable",
+  "owner",
+  "ttl",
 ]
 
 # Get all GCP compute instances
