@@ -9,8 +9,8 @@ import "tfplan-functions" as plan
 # List of mandatory tags
 ### List of mandatory tags ###
 mandatory_tags = [
-  "Department",
-  "Billable",
+  "owner",
+  "ttl",
 ]
 
 # Get all EC2 instances
