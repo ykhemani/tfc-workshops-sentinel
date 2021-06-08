@@ -3,6 +3,6 @@ policy "limit-cost-by-workspace-name" {
 }
 
 module "tfrun-functions" {
-    source = "https://raw.githubusercontent.com/hashicorp/terraform-guides/master/governance/third-generation/common-function/common-functions/tfrun-functions/tfrun-functions.sentinel"
+    source = "https://raw.githubusercontent.com/hashicorp/terraform-guides/master/governance/third-generation/common-functions/tfrun-functions/tfrun-functions.sentinel"
 }
 
